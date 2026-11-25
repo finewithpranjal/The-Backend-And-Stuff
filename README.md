@@ -56,7 +56,7 @@ This handbook takes you behind the scenes and introduces the fundamental concept
 
 Download or view the complete handwritten handbook:
 
-**[The Backend & Stuff — PDF](THE BACKED AND STUFF.pdf)**
+**[The Backend & Stuff — PDF]([THE BACKED AND STUFF.pdf](https://github.com/finewithpranjal/The-Backend-And-Stuff/blob/main/THE%20BACKED%20AND%20STUFF%20.pdf))**
 
 ## A Note from the Author
 
