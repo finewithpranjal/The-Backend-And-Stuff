@@ -56,7 +56,7 @@ This handbook takes you behind the scenes and introduces the fundamental concept
 
 Download or view the complete handwritten handbook:
 
-**[The Backend & Stuff — PDF](The-Backend-And-Stuff/blob/main/THE%20BACKED%20AND%20STUFF%20.pdf)**
+**[The Backend & Stuff — PDF](THE BACKED AND STUFF.pdf)**
 
 ## A Note from the Author
 
